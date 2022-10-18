@@ -1,0 +1,13 @@
+{
+    "name": "main",
+    "decription": "My main workspace",
+    "items": [
+        {
+            "type": "mas",
+            "bottles": [
+                "GoodNotes"
+            ]
+        }
+    ],
+    "preferences": []
+}

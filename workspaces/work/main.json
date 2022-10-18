@@ -1,0 +1,13 @@
+{
+  "name": "work",
+  "decription": "My work workspace",
+  "items": [
+    {
+      "type": "brew",
+      "bottles": [
+        "kubectl"
+      ]
+    }
+  ],
+  "preferences": []
+}

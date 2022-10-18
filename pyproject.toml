@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "koko"
+version = "0.1.0"
+description = "Koko is a setup manager for your laptop"
+authors = ["Brandon Guigo <brandon.guigo@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jsonobject = "^2.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
